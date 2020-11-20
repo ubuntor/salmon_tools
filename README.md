@@ -1,3 +1,5 @@
+# NOTE: Superseded by [salmon_lib](https://github.com/alisww/salmon_lib)
+
 # salmon_tools
 Tools for zAppHelp (`.zhp`) files
 
